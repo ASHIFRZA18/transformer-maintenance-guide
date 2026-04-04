@@ -41,3 +41,5 @@ This guide is based on actual transformer maintenance and inspection routines fo
 ## Limitations
 
 This is a beginner-level guide and does not replace professional training or supervision.
+
+- Common mistakes to avoid (common-mistakes.md)  
