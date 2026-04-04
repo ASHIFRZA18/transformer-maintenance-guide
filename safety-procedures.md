@@ -8,3 +8,8 @@
 
 ## Important
 Safety is the first priority in any maintenance task.
+
+## Emergency Situations
+
+- In case of fire: follow fire safety protocol  
+- In case of electric shock: disconnect power immediately  
