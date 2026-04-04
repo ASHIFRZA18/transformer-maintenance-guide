@@ -27,3 +27,17 @@ Many beginners and technicians entering industrial environments struggle due to 
 ## Author
 
 Maintained by someone working in a transformer power plant environment, aiming to make industrial knowledge more accessible.
+
+## How to Use
+
+1. Start with daily-checklist.md  
+2. Follow safety-procedures.md before any operation  
+3. Use troubleshooting.md when issues occur  
+
+## Real Use Case
+
+This guide is based on actual transformer maintenance and inspection routines followed in a power plant environment.
+
+## Limitations
+
+This is a beginner-level guide and does not replace professional training or supervision.
