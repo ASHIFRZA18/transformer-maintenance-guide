@@ -9,3 +9,6 @@
 
 ## Notes
 Any abnormal observation should be reported immediately.
+
+## Frequency
+This checklist should be performed daily before operation.
