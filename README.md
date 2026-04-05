@@ -43,3 +43,15 @@ This guide is based on actual transformer maintenance and inspection routines fo
 This is a beginner-level guide and does not replace professional training or supervision.
 
 - Common mistakes to avoid (common-mistakes.md)  
+
+## Project Structure
+
+- daily-checklist.md → Daily inspection steps  
+- safety-procedures.md → Safety guidelines  
+- troubleshooting.md → Problem solving steps  
+- inspection-report-format.md → Reporting template  
+- common-mistakes.md → Mistakes to avoid  
+
+## Why This Project
+
+In many industrial environments, beginners struggle due to lack of clear documentation. This project organizes real maintenance knowledge into simple and practical steps.
