@@ -20,3 +20,7 @@
 2. Check basic parameters  
 3. Isolate the problem  
 4. Take corrective action  
+
+## Safety Note
+
+Always ensure the transformer is properly isolated before performing any troubleshooting steps.
